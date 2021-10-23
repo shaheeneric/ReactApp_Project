@@ -25,12 +25,12 @@ const Home = () => {
 					<div className="form-control">
 						<label for="room">Room</label>
 						<select name="room" id="room">
-							<option value="Placeholder">Placeholder</option>
-							<option value="Placeholder">Placeholder</option>
-							<option value="Placeholder">Placeholder</option>
-							<option value="Placeholder">Placeholder</option>
-							<option value="Placeholder">Placeholder</option>
-							<option value="Placeholder">Placeholder</option>
+							<option value="Room1">Room1</option>
+							<option value="Room2">Room2</option>
+							<option value="Room3">Room3</option>
+							<option value="Room4">Room4</option>
+							<option value="Room5">Room5</option>
+							<option value="Room6">Room6</option>
 						</select>
 					</div>
 					<button type="submit" className="btn" >Join Chat</button>
